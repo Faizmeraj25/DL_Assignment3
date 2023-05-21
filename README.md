@@ -17,3 +17,8 @@
 - In case, if sweep is required to run, then run the cell with 'sweep_config_attn' dictnionary and then run the cell below it containing sweepid. 
 - In order to create the prediction_attention.csv file run the cell below sweepid cell to call the 'infer'.
 - It would generate a csv file with name 'prediction_attention.csv' which contains Input English word, Output Hindi word & Target Hindi word in separate columns for all the test dataset words. 
+
+
+Source of References : 
+https://www.youtube.com/watch?v=sQUqQddQtB4
+https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
